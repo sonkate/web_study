@@ -138,7 +138,7 @@ html{
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('//www.goldenpetmart.com/images/content/banner_s35.jpg') center/ cover no-repeat;
+    background: url('/assets/img/meo.jpg') center/ cover no-repeat;
 }   
 #slider .text-content{
     position: absolute;
