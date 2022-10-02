@@ -138,7 +138,7 @@ html{
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background:  url('/assets/img/meo.jpg')center/ cover no-repeat;
+    background:  url("https://img.freepik.com/premium-vector/banner-with-cute-dogs-with-soap-bubble-flat-style-illustation-pet-grooming_77984-989.jpg?w=2000")center/ cover no-repeat;
 }   
 #slider .text-content{
     position: absolute;
